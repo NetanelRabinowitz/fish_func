@@ -1,0 +1,3 @@
+function kk
+	clear
+end
